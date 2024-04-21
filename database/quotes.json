@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "author": "Albert Einstein",
+    "text": "Imagination is more important than knowledge."
+  },
+  {
+    "id": 2,
+    "author": "Maya Angelou",
+    "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+  },
+  {
+    "id": 3,
+    "author": "Mark Twain",
+    "text": "The secret of getting ahead is getting started."
+  },
+  {
+    "id": 4,
+    "author": "Ralph Waldo Emerson",
+    "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+  },
+  {
+    "id": 5,
+    "author": "Oscar Wilde",
+    "text": "Be yourself; everyone else is already taken."
+  },
+  {
+    "id": 6,
+    "author": "Mahatma Gandhi",
+    "text": "Be the change that you wish to see in the world."
+  },
+  {
+    "id": 7,
+    "author": "J.K. Rowling",
+    "text": "It does not do to dwell on dreams and forget to live."
+  },
+  {
+    "id": 8,
+    "author": "Martin Luther King Jr.",
+    "text": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that."
+  },
+  {
+    "id": 9,
+    "author": "Steve Jobs",
+    "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+  },
+  {
+    "id": 10,
+    "author": "Buddha",
+    "text": "The mind is everything. What you think you become."
+  },
+  {
+    "id": 11,
+    "author": "Helen Keller",
+    "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+  },
+  {
+    "id": 12,
+    "author": "Walt Disney",
+    "text": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "id": 13,
+    "author": "Nelson Mandela",
+    "text": "Education is the most powerful weapon which you can use to change the world."
+  },
+  {
+    "id": 14,
+    "author": "C.S. Lewis",
+    "text": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "id": 15,
+    "author": "Vincent Van Gogh",
+    "text": "I would rather die of passion than of boredom."
+  },
+  {
+    "id": 16,
+    "author": "Abraham Lincoln",
+    "text": "Whatever you are, be a good one."
+  },
+  {
+    "id": 17,
+    "author": "Eleanor Roosevelt",
+    "text": "Do one thing every day that scares you."
+  },
+  {
+    "id": 18,
+    "author": "Winston S. Churchill",
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "id": 19,
+    "author": "Frida Kahlo",
+    "text": "Feet, what do I need you for when I have wings to fly?"
+  },
+  {
+    "id": 20,
+    "author": "Mother Teresa",
+    "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+  },
+  {
+    "id": 21,
+    "author": "Confucius",
+    "text": "Our greatest glory is not in never falling, but in rising every time we fall."
+  },
+  {
+    "id": 22,
+    "author": "Leo Tolstoy",
+    "text": "Everyone thinks of changing the world, but no one thinks of changing himself."
+  },
+  {
+    "id": 23,
+    "author": "Stephen Hawking",
+    "text": "Remember to look up at the stars and not down at your feet."
+  },
+  {
+    "id": 24,
+    "author": "Harriet Tubman",
+    "text": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."
+  },
+  {
+    "id": 25,
+    "author": "Walt Whitman",
+    "text": "Keep your face always toward the sunshine - and shadows will fall behind you."
+  },
+  {
+    "id": 26,
+    "author": "Anne Frank",
+    "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world."
+  },
+  {
+    "id": 27,
+    "author": "Pablo Picasso",
+    "text": "Everything you can imagine is real."
+  },
+  {
+    "id": 28,
+    "author": "Rumi",
+    "text": "The wound is the place where the Light enters you."
+  },
+  {
+    "id": 29,
+    "author": "John Lennon",
+    "text": "Life is what happens when you're busy making other plans."
+  },
+  {
+    "id": 30,
+    "author": "Marcus Aurelius",
+    "text": "You have power over your mind - not outside events. Realize this, and you will find strength."
+  },
+  {
+    "id": 31,
+    "author": "Virginia Woolf",
+    "text": "Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind."
+  },
+  {
+    "id": 32,
+    "author": "Hermann Hesse",
+    "text": "Some of us think holding on makes us strong, but sometimes it is letting go."
+  },
+  {
+    "id": 33,
+    "author": "Ralph Waldo Emerson",
+    "text": "Write it on your heart that every day is the best day in the year."
+  },
+  {
+    "id": 34,
+    "author": "Socrates",
+    "text": "The only true wisdom is in knowing you know nothing."
+  },
+  {
+    "id": 35,
+    "author": "Coco Chanel",
+    "text": "The most courageous act is still to think for yourself. Aloud."
+  },
+  {
+    "id": 36,
+    "author": "William Shakespeare",
+    "text": "All the world's a stage, and all the men and women merely players."
+  },
+  {
+    "id": 37,
+    "author": "Fyodor Dostoevsky",
+    "text": "The soul is healed by being with children."
+  },
+  {
+    "id": 38,
+    "author": "Heraclitus",
+    "text": "The only constant in life is change."
+  },
+  {
+    "id": 39,
+    "author": "Plato",
+    "text": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
+  },
+  {
+    "id": 40,
+    "author": "Emily Dickinson",
+    "text": "Forever is composed of nows."
+  },
+  {
+    "id": 41,
+    "author": "Jane Austen",
+    "text": "There is no charm equal to tenderness of heart."
+  },
+  {
+    "id": 42,
+    "author": "Leonardo da Vinci",
+    "text": "Simplicity is the ultimate sophistication."
+  },
+  {
+    "id": 43,
+    "author": "Rabindranath Tagore",
+    "text": "Let your life lightly dance on the edges of Time like dew on the tip of a leaf."
+  },
+  {
+    "id": 44,
+    "author": "Marie Curie",
+    "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
+  },
+  {
+    "id": 45,
+    "author": "Albert Camus",
+    "text": "In the depth of winter, I finally learned that within me there lay an invincible summer."
+  },
+  { "id": 46, "author": "Sylvia Plath", "text": "I am, I am, I am." },
+  {
+    "id": 47,
+    "author": "Emily Brontë",
+    "text": "Whatever our souls are made of, his and mine are the same."
+  },
+  {
+    "id": 48,
+    "author": "H.G. Wells",
+    "text": "Adapt or perish, now as ever, is nature's inexorable imperative."
+  },
+  {
+    "id": 49,
+    "author": "George Eliot",
+    "text": "It is never too late to be what you might have been."
+  },
+  {
+    "id": 50,
+    "author": "J.R.R. Tolkien",
+    "text": "Not all those who wander are lost."
+  }
+]

@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(244 53 67);
+    height: 100vh;
+    font-family: "Roboto Slab", serif;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 600px;
+    padding: 20px 15px;
+    border-radius: 12px;
+    box-shadow: 0 12px 35px rgba(0,0,0,0.15);
+}
+
+.container > h1 {
+    text-align: center;
+}
+
+.container > #quote {
+    text-align: center;
+    margin: 20px auto;
+    width: 80%;
+    height: 42px;
+    font-size: 19px;
+}
+
+.container > #author {
+    text-align: right;
+}
+.container > #author::before {
+    content: '━';
+    margin-right: 5px;
+}
+
+.container > .buttonsContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.container > .buttonsContainer > #generateButton {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(244 53 67);
+    color: white;
+    font-family: "Roboto Slab", serif;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: 200ms;
+    font-size: 14px;
+} 
+.container > .buttonsContainer > #generateButton:hover {
+    opacity: .8;
+}
+.container > .buttonsContainer > div {
+    display: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+}
+.container > .buttonsContainer  > div > i {
+    margin-right: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: rgb(244 53 67);
+    border-radius: 50%;
+    border: 2px solid rgb(244 53 67);
+}
+
+
